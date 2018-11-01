@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="play_button_margin">16dp</dimen>
+    <dimen name="play_button_text">18dp</dimen>
+    <dimen name="game_name_text">60dp</dimen>
+    <dimen name="select_profile_text">25dp</dimen>
+    <dimen name="profile_margin">8dp</dimen>
+    <dimen name="profile_width">80dp</dimen>
+    <dimen name="profile_height">90dp</dimen>
+
+</resources>

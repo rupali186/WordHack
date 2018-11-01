@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="linear"
+                android:startColor="#a881d7"
+                android:endColor="#cdbbf1"
+                android:centerColor="#e3d6f9"
+                android:angle="90"
+                android:gradientRadius="90"
+                />
+            <!--apply a border around button-->
+            <stroke android:color="#947fdc" android:width="3dp" />
+            <corners android:radius="30dp"/>
+        </shape>
+    </item>
+</selector>

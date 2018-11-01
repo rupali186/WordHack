@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6c719b</color>
+    <color name="colorPrimaryDark">#3a466c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gameName">#587d9f</color>
+    <color name="play">#018e01</color>
+    <color name="coins">#8d76da</color>
+    <color name="daily_bonus">#bf8a01</color>
+    <color name="select_profile">#5c4b4f</color>
+    <color name="edit_profile_background">#d6a9b3</color>
+
+</resources>
